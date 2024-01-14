@@ -1,0 +1,16 @@
+# Default .gitignore content
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.xlsx
+*.xls
+*.csv
+*.json
+*.html
+
+# Additional patterns
+*.html
