@@ -60,3 +60,6 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to explore the provided Jupyter Notebook and datasets to gain insights into economic trends, healthcare patterns, and crime dynamics. If you have any questions or suggestions, please feel free to reach out.
 
 Happy exploring!
+
+
+Last updated on: 2024-02-13
